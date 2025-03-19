@@ -1,5 +1,7 @@
 # Movie database
 
+Program poskytující uživatelské rozhraní pro práci s SQL databází filmů
+
 ## Požadavky pro spuštění
 Před spuštěním vytvořte na libovolném SQL serveru databázi vytvořenou pomocí SQL souboru "database creation.sql". Tento skript naleznete i na konci tohoto dokumentu. Aby program používal Vaši databázi, nastavte v konfiguračním souboru App.config informace o Vaší databázi. Pokud se programu nepodaří připojení k databázi, ukáže se hned po startu chybová hláška a program se ukončí.
 
