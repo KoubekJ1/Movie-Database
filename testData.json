@@ -1,0 +1,363 @@
+[
+  {
+    "name": "A Hard Day\u0027s Night",
+    "description": "Musical comedy",
+    "releaseDate": "1964-02-06",
+    "rating": 4.2,
+    "actors": [
+      {
+        "name": "Paul",
+        "surname": "McCartney"
+      },
+      {
+        "name": "John",
+        "surname": "Lennon"
+      },
+      {
+        "name": "George",
+        "surname": "Harrison"
+      },
+      {
+        "name": "Ringo",
+        "surname": "Starr"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Comedy"
+      },
+      {
+        "name": "Musical"
+      }
+    ]
+  },
+  {
+    "name": "Help!",
+    "description": "Musical comedy",
+    "releaseDate": "1965-07-29",
+    "rating": 3.9,
+    "actors": [
+      {
+        "name": "Paul",
+        "surname": "McCartney"
+      },
+      {
+        "name": "John",
+        "surname": "Lennon"
+      },
+      {
+        "name": "George",
+        "surname": "Harrison"
+      },
+      {
+        "name": "Ringo",
+        "surname": "Starr"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Musical"
+      },
+      {
+        "name": "Comedy"
+      }
+    ]
+  },
+  {
+    "name": "Magical Mystery Tour",
+    "description": "Experimental musical comedy",
+    "releaseDate": "1967-12-26",
+    "rating": 3.7,
+    "actors": [
+      {
+        "name": "Paul",
+        "surname": "McCartney"
+      },
+      {
+        "name": "John",
+        "surname": "Lennon"
+      },
+      {
+        "name": "George",
+        "surname": "Harrison"
+      },
+      {
+        "name": "Ringo",
+        "surname": "Starr"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Experimental"
+      },
+      {
+        "name": "Musical"
+      },
+      {
+        "name": "Comedy"
+      }
+    ]
+  },
+  {
+    "name": "Let It Be",
+    "description": "Documentary movie",
+    "releaseDate": "1970-05-20",
+    "rating": 4.1,
+    "actors": [
+      {
+        "name": "Paul",
+        "surname": "McCartney"
+      },
+      {
+        "name": "John",
+        "surname": "Lennon"
+      },
+      {
+        "name": "George",
+        "surname": "Harrison"
+      },
+      {
+        "name": "Ringo",
+        "surname": "Starr"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Documentary"
+      },
+      {
+        "name": "Music"
+      }
+    ]
+  },
+  {
+    "name": "Yellow Submarine",
+    "description": "Animated musical fantasy movie",
+    "releaseDate": "1968-06-17",
+    "rating": 4.3,
+    "actors": [
+      {
+        "name": "Paul",
+        "surname": "Angelis"
+      },
+      {
+        "name": "John",
+        "surname": "Clive"
+      },
+      {
+        "name": "Dick",
+        "surname": "Emery"
+      },
+      {
+        "name": "Geoffrey",
+        "surname": "Hughes"
+      },
+      {
+        "name": "Lance",
+        "surname": "Percival"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Musical"
+      },
+      {
+        "name": "Fantasy"
+      },
+      {
+        "name": "Comedy"
+      },
+      {
+        "name": "Animated"
+      }
+    ]
+  },
+  {
+    "name": "Inception",
+    "description": "Science fiction action movie",
+    "releaseDate": "2010-07-08",
+    "rating": 4,
+    "actors": [
+      {
+        "name": "Leonardo",
+        "surname": "DiCaprio"
+      },
+      {
+        "name": "Ken",
+        "surname": "Watanabe"
+      },
+      {
+        "name": "Joseph",
+        "surname": "Gordon-Levitt"
+      },
+      {
+        "name": "Marion",
+        "surname": "Cotillard"
+      },
+      {
+        "name": "Elliot",
+        "surname": "Page"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Science fiction"
+      },
+      {
+        "name": "Action"
+      }
+    ]
+  },
+  {
+    "name": "The French Connection",
+    "description": "Neo-noir action thriller movie",
+    "releaseDate": "1971-10-07",
+    "rating": 4.4,
+    "actors": [
+      {
+        "name": "Gene",
+        "surname": "Hackman"
+      },
+      {
+        "name": "Fernando",
+        "surname": "Rey"
+      },
+      {
+        "name": "Roy",
+        "surname": "Scheider"
+      },
+      {
+        "name": "Marcel",
+        "surname": "Bozzuffi"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Neo-noir"
+      },
+      {
+        "name": "Action"
+      },
+      {
+        "name": "Thriller"
+      }
+    ]
+  },
+  {
+    "name": "The Irishman",
+    "description": "Biography crime movie",
+    "releaseDate": "2019-09-27",
+    "rating": 4.3,
+    "actors": [
+      {
+        "name": "Jane",
+        "surname": "Rosenthal"
+      },
+      {
+        "name": "Irwin",
+        "surname": "Winkler"
+      },
+      {
+        "name": "Gerald",
+        "surname": "Chamales"
+      },
+      {
+        "name": "Gast\u00F3n",
+        "surname": "Pavlovich"
+      },
+      {
+        "name": "Randall",
+        "surname": "Emmett"
+      },
+      {
+        "name": "Gabriele",
+        "surname": "Israilovici"
+      },
+      {
+        "name": "Al",
+        "surname": "Pacino"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Biography"
+      },
+      {
+        "name": "Crime"
+      },
+      {
+        "name": "Drama"
+      },
+      {
+        "name": "History"
+      },
+      {
+        "name": "Thriller"
+      }
+    ]
+  },
+  {
+    "name": "Scarface",
+    "description": "Crime drama movie",
+    "releaseDate": "1983-12-01",
+    "rating": 4.2,
+    "actors": [
+      {
+        "name": "Al",
+        "surname": "Pacino"
+      },
+      {
+        "name": "Steven",
+        "surname": "Bauer"
+      },
+      {
+        "name": "Michelle",
+        "surname": "Pfeiffer"
+      },
+      {
+        "name": "Robert",
+        "surname": "Loggia"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Crime"
+      },
+      {
+        "name": "Drama"
+      }
+    ]
+  },
+  {
+    "name": "The Silence of the Lambs",
+    "description": "Psychological horror thriller movie",
+    "releaseDate": "1991-01-30",
+    "rating": 4.5,
+    "actors": [
+      {
+        "name": "Jodie",
+        "surname": "Foster"
+      },
+      {
+        "name": "Anthony",
+        "surname": "Hopkins"
+      },
+      {
+        "name": "Scott",
+        "surname": "Glenn"
+      },
+      {
+        "name": "Ted",
+        "surname": "Levine"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Horror"
+      },
+      {
+        "name": "Thriller"
+      }
+    ]
+  }
+]
